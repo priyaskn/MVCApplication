@@ -1,0 +1,11 @@
+C:\Users\kumaran\source\repos\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.0\EventsAndDelegates.exe
+C:\Users\kumaran\source\repos\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.0\EventsAndDelegates.deps.json
+C:\Users\kumaran\source\repos\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.0\EventsAndDelegates.runtimeconfig.json
+C:\Users\kumaran\source\repos\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.0\EventsAndDelegates.runtimeconfig.dev.json
+C:\Users\kumaran\source\repos\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.0\EventsAndDelegates.dll
+C:\Users\kumaran\source\repos\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.0\EventsAndDelegates.pdb
+C:\Users\kumaran\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.0\EventsAndDelegates.csprojAssemblyReference.cache
+C:\Users\kumaran\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.0\EventsAndDelegates.AssemblyInfoInputs.cache
+C:\Users\kumaran\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.0\EventsAndDelegates.AssemblyInfo.cs
+C:\Users\kumaran\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.0\EventsAndDelegates.dll
+C:\Users\kumaran\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.0\EventsAndDelegates.pdb
